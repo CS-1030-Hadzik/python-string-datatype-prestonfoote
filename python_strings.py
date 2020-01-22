@@ -49,10 +49,16 @@ print (my_first_name * 6)
 #   - Print the following items (one per line) (print using variables)
 #       - possesive first name -birth year is- year of birth 
 #       - tab last name current year
-
-
+txt = my_first_name + ' birth year is {}'
+print (txt.format(my_year_of_birth))
 # TODO String methods
 #   - Print the following items (one per line) (print using variables)
 #       - first name and last name in lower case
 #       - length of last name
 #       - first name and last name all in upper case
+name = 'Preston Foote'
+print (name.lower())
+b = 'Foote'
+print (len(b))
+name = 'Preston Foote'
+print (name.upper())
