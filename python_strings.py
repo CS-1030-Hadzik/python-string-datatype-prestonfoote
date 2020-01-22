@@ -42,7 +42,7 @@ print (my_first_name * 6)
 #   - Print the following items (one per line) (print using variables)
 #       - first name last name -was born in- year of birth
 #       - first name last name -was born in- year of birth. first name -enjoyed celebrating- current year
-txt = my_first_name + my_last_name + 
+
 
 
 # TODO Escape characters
