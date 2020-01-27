@@ -55,7 +55,6 @@ print (txt2.format(my_year_of_birth, my_first_name, current_year))
 #       - tab last name current year
 txt = "Preston's" + ' birth year is {}'
 print (txt.format(my_year_of_birth))
-
 # TODO String methods
 #   - Print the following items (one per line) (print using variables)
 #       - first name and last name in lower case
